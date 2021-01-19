@@ -1,0 +1,17 @@
+git hub account
+learn
+create sample
+
+C E department
+m salvio
+
+april--
+
+https://www.youtube.com/watch?v=A-4WltCTVms
+https://www.youtube.com/watch?v=hMfi_ONvGEs
+https://www.youtube.com/watch?v=iJKIxrJ40ss
+
+a git reposirtory tracks all changes made some files in our project to build a history over time
+
+learn how to create repository and commit
+git Branches
